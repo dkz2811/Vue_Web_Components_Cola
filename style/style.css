@@ -1,0 +1,28 @@
+.bg-color-pri{
+    background-color: rgb(238, 210, 162);
+}
+
+.bg-color-sec{
+    background-color: rgb(229, 138, 138);
+}
+
+.pri {
+    color:rgb(24, 83, 231) !important;
+}
+
+.sec {
+    color:rgb(4, 4, 4) !important;
+    font-size: large !important;
+}
+
+.card {
+    min-width: 220px;
+    padding: 20px 10px;
+    margin: 10px 10px;
+    border-color:palegreen;
+    border-style: solid;
+    border-width: 1px;
+    max-width: 220px;
+    background-color: whitesmoke !important;
+    transition: 0.7s;
+}
